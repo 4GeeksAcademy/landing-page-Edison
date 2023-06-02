@@ -22,7 +22,7 @@ const Home = () => {
 			<Jumbotron  title="My first card" 
 						description="Etiam posuere quam ac quam. Maecenas aliquet accumsan leo. Nullam dapibus fermentum ipsum. Etiam quis quam. Integer lacinia. Nulla est. Nulla turpis magna, cursus sit amet, suscipit a, interdum id, felis. Integer vulputate sem a nibh rutrum consequat. Maecenas lorem. Pellentesque pretium" 
 						btnTitle="Click Here"/>
-			<div className=" d-flex justify-content-center align-items-center mt-5">
+			<div className=" d-flex justify-content-center align-items-center">
 				<div className="row col-11">
 					<div className="col-12 col-md-3 mb-3">
 						<Card imgUrl={"https://picsum.photos/id/231/850/850"} 

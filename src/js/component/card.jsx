@@ -2,7 +2,7 @@ import React from "react";
 
 let Card = (props) =>{
     return(
-        <div className="card">
+        <div className="card mt-2">
             <img src={props.imgUrl} alt="..."/>
             <div className="card-body text-center">
                 <h5 className="card-title">{props.title}</h5>
